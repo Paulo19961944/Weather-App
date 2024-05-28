@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: turquoise;
+    background-color: #40e0d0;
     border: 1px solid #000;
     min-height: 100vh;
     display: flex;
@@ -23,7 +23,6 @@ main{
     width: 90vw;
     height: 480px;
     border: 1px solid #000;
-    padding: 48px;
 }
 
 form{
@@ -45,6 +44,10 @@ form{
 }
 
 #search-city{
+    background-color: #121212;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
     width: 70%;
     margin: 8px 0 32px 0;
 }
