@@ -5,5 +5,5 @@ Esse é um aplicativo que consome uma API da Open Weather. O propósito dessa ap
 ## SEGUE INSTALAÇÃO DO FONT AWESOME ABAIXO
 
 ```npm install @fortawesome/fontawesome-free``` <br></br>
-Depois de Instalado, você poderá importar para o Node Modules via CSS<br></br>
+Depois de Instalado, você poderá importar para o Node Modules via CSS
 ```<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">```
