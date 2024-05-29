@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather App - Seu Site do Tempo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
     <link rel="stylesheet" href="src/styles/main.css">
 </head>
@@ -12,39 +14,11 @@
 <body>
     <main>
         <section class="container">
+            <h1 class="title">WEATHER APP</h1>
             <form action="#">
-            <article class="search-input">
-                <p>Busque uma Cidade:</p>
-                <input type="search" name="search-city" id="search-city">
-                <h1>São Paulo - SP - BR</h1>
-            </article>
-            <article class="temp-primary">
-                    <img src="src/images/Cloud.jpg" alt="icon-cloud" class="icon-weather" width="20%">
-                        <div class="temp-primary-content">
-                        <p>26,1 <sup>ºC</sup></p>
-                        <small>Nublado</small>
-                    </div>
-            </article>
-            <article class="temp-secondary">
-                    <div class="temp-max">
-                        <p>Temp Max</p>
-                        <p id="resultMax">17 <sup>ºC</sup></p>
-                    </div>
-                    <div class="temp-min">
-                        <p>Temp Max</p>
-                        <p id="resultMin">32 <sup>ºC</sup></p>
-                    </div>
-            </article>
-            <article class="information-secondary">
-                <div class="moisture">
-                    <p>Umidade</p>
-                    <p>70%</p>
-                </div>
-                <div class="wind-speed">
-                    <p>Vento</p>
-                    <p>16 km/h</p>
-                </div>
-            </article>
+                <label for="city-name">Digite sua Cidade:</label>
+                <input type="text" name="city-name" id="city-name">
+                <input type="submit" value="Buscar" id="submitBtn">
             </form>
         </section>
     </main>
