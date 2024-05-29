@@ -23,4 +23,4 @@ O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que
 ## PSICOLOGIA DAS CORES
 **60% | #007EA7 ->** Essa é uma cor que reflete a cor do céu claro. É muito comum em uma Aplicação que mede o Clima, pois já tem a associação ao tempo, se está azul, significa tempo firme. Porém se for cinza indica Tempo Nublado. Também é utilizada nos Botões de Ação<br></br>
 **30% | #F4F3EE ->** Essa cor foi usada no container, pois transmite um bom contraste e facilita a leitura, sendo o padrão para a cor de fundo.<br></br>
-**10$ | #020402 ->** Essa cor serve para dar o contraste do fundo, sendo usada apenas no input e no texto.
+**10% | #020402 ->** Essa cor serve para dar o contraste do fundo, sendo usada apenas no input e no texto.
