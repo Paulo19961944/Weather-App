@@ -10,6 +10,6 @@ Depois de Instalado, você poderá importar para o Node Modules via CSS<br></br>
 
 # PROTOTIPAGEM
 
-O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que eu realmente sei fazer e que estou aprendendo e evoluindo. Podemos ter várias fontes, mas eu não quero ser só mais um que copia código, e que pega um design pronto, mas que faz algo do zero. Então, vai ser um pouco diferente. O que pretendo fazer ali é a API do Clima, como um projeto que consome uma API no Front End. No final a conclusão de tudo vai ser sobre pesquisas que fiz e etc. Segue o Link do Protótipo Abaixo 👇👇👇
+O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que eu realmente sei fazer e que estou aprendendo e evoluindo. Podemos ter várias fontes, mas eu não quero ser só mais um que copia código, e que pega um design pronto, mas que faz algo do zero. Então, vai ser um pouco diferente. O que pretendo fazer ali é a API do Clima, como um projeto que consome uma API no Front End. No final a conclusão de tudo vai ser sobre pesquisas que fiz e etc. Segue o Link do Protótipo Abaixo 👇👇👇<br></br>
 
 [PROTÓTIPO NO MOBILE!!!](https://www.figma.com/design/9C8fSO5DOLObRP3m0jXmoD/App-Weather?node-id=0-1&t=dGTIngW6ILaNrK95-1)
