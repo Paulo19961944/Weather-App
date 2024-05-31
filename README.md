@@ -18,7 +18,9 @@ Foram utilizadas as fontes do Google pelo fato de transmitir um estilo mais clá
 
 O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que eu realmente sei fazer e que estou aprendendo e evoluindo. Podemos ter várias fontes, mas eu não quero ser só mais um que copia código, e que pega um design pronto, mas que faz algo do zero. Então, vai ser um pouco diferente. O que pretendo fazer ali é a API do Clima, como um projeto que consome uma API no Front End. No final a conclusão de tudo vai ser sobre pesquisas que fiz e etc. Segue o Link do Protótipo Abaixo 👇👇👇<br></br>
 
-[PROTÓTIPO NO MOBILE!!!](https://www.figma.com/design/9C8fSO5DOLObRP3m0jXmoD/App-Weather?node-id=0-1&t=dGTIngW6ILaNrK95-1) <br></br>
+[PROTÓTIPO NO MOBILE!!!](https://www.figma.com/design/9C8fSO5DOLObRP3m0jXmoD/App-Weather?node-id=0-1&t=dGTIngW6ILaNrK95-1)<br></br>
+[PROTÓTIPO NO TABLET!!!](https://www.figma.com/design/9C8fSO5DOLObRP3m0jXmoD/App-Weather?node-id=21-2&t=zy2Vjs6eiUMSctCW-1)<br></br>
+[PROTÓTIPO NO DESKTOP!!!](https://www.figma.com/design/9C8fSO5DOLObRP3m0jXmoD/App-Weather?node-id=21-94&t=zy2Vjs6eiUMSctCW-1)<br></br>
 
 ## PSICOLOGIA DAS CORES
 **60% (Azul-Claro) | #007EA7 ->** Essa é uma cor que reflete a cor do céu claro. É muito comum em uma Aplicação que mede o Clima, pois já tem a associação ao tempo, se está azul, significa tempo firme. Porém se for cinza indica Tempo Nublado. Também é utilizada nos Botões de Ação<br></br>
