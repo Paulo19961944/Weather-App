@@ -28,4 +28,7 @@ O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que
 ## PSICOLOGIA DAS CORES
 **60% (Azul-Claro) | #007EA7 ->** Essa é uma cor que reflete a cor do céu claro. É muito comum em uma Aplicação que mede o Clima, pois já tem a associação ao tempo, se está azul, significa tempo firme. Porém se for cinza indica Tempo Nublado. Também é utilizada nos Botões de Ação<br></br>
 **30% (Branco) | #F4F3EE ->** Essa cor foi usada no container, pois transmite um bom contraste e facilita a leitura, sendo o padrão para a cor de fundo.<br></br>
-**10% (Preto) | #020402 ->** Essa cor serve para dar o contraste do fundo, sendo usada apenas no input e no texto.
+**10% (Preto) | #020402 ->** Essa cor serve para dar o contraste do fundo, sendo usada apenas no input e no texto.<br></br>
+
+## MOBILE FIRST
+Foi usado o conceito de Mobile First. Hoje em dia temos 90% dos dispositivos são celulares, por isso devemos nos preocupar primeiro com ele. A Probablilidade de alguém usar o celular é gigantesca, por isso a importância da Responsividade nos Dispositivos Móveis.
