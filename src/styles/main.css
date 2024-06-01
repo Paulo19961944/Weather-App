@@ -33,7 +33,7 @@ main section .title{
 }
 
 main section .main-title{
-    margin: 32px 0;
+    margin: 32px 32px 48px;
     font-family: 'Arsenal', sans-serif;
     font-size: 1.5rem;
 }
@@ -85,16 +85,26 @@ form label{
     border-radius: 8px;
     background-color: #F4F3EE;
     width: 90%;
-    height: 420px;
+    height: 448px;
 }
 
 .weather-container{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 16px;
+}
+
+.temp-max,.moisture, .fa-cloud{
+    margin-right: 48px;
 }
 
 #btnReturn{
+    margin-left: 40px;
     width: 160px;
+}
+
+.fa-cloud{
+    font-size: 1.5em;
 }
 
 #btnReturn:hover{
