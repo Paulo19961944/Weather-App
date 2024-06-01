@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App - Seu Site do Tempo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+    <link rel="stylesheet" href="src/styles/main.css">
+</head>
+<body>
+    <main class="result-main-container">
+        <section class="result-container">
+            <h1 class="main-title">São Paulo - SP</h1>
+            <article class="weather-container">
+                <section class="icon">
+                    <i class="fa-solid fa-cloud"></i>
+                </section>
+                <section class="weather-temp">
+                    <h2>26.1º<sup>C</sup></h2>
+                    <p>Nublado</p>
+                </section>
+            </article>
+            <article class="weather-container">
+                <section class="icon">
+                    <i class="fa-solid fa-temperature-high"></i>
+                </section>
+                <section class="temp-max">
+                    <p>Temp Max</p>
+                    <h2>32º<sup>C</sup></h2>
+                </section>
+                <section class="icon">
+                    <i class="fa-solid fa-temperature-low"></i>
+                </section>
+                <section class="temp-min">
+                    <p>Temp Min</p>
+                    <h2>19º<sup>C</sup></h2>
+                </section>
+            </article>
+            <article class="weather-container">
+                <section class="icon">
+                    <i class="fa-solid fa-water"></i>
+                </section>
+                <section class="moisture">
+                    <p>Umidade</p>
+                    <h2>60%</h2>
+                </section>
+                <section class="icon">
+                    <i class="fa-solid fa-wind"></i>
+                </section>
+                <section class="wind">
+                    <p>Vento</p>
+                    <h2>16 km/h</h2>
+                </section>
+            </article>
+            <button id="btnReturn">Nova Consulta</button>
+        </section>
+    </main>
+</body>
+</html>
