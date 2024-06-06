@@ -31,4 +31,7 @@ O Protótipo foi feito a parte de mobile pelo Figma, a intenção é mostrar que
 **10% (Preto) | #020402 ->** Essa cor serve para dar o contraste do fundo, sendo usada apenas no input e no texto.<br></br>
 
 ## MOBILE FIRST
-Foi usado o conceito de Mobile First. Hoje em dia temos 90% dos dispositivos são celulares, por isso devemos nos preocupar primeiro com ele. A Probablilidade de alguém usar o celular é gigantesca, por isso a importância da Responsividade nos Dispositivos Móveis.
+Foi usado o conceito de Mobile First. Hoje em dia temos 90% dos dispositivos são celulares, por isso devemos nos preocupar primeiro com ele. A Probablilidade de alguém usar o celular é gigantesca, por isso a importância da Responsividade nos Dispositivos Móveis.<br></br>
+
+# MEDIA QUERY
+Apliquei o conceito de Media Query para melhorar a responsividade. Como foi dito, o Celular é o mais utilizado. Porém, como sempre, devemos aplicar também para os dispositivos maiores, melhorando a Experiência do Usuário em relação a Interface. Coloquei alguns breakpoints, para Celular, Tablet, Desktop, Full HD e telas de 2.5k, que é a tela de alguns IMac. Eu não coloquei o breakpoint de 4k até porque são monitores para jogos, então o publico-alvo é diferente, e o IMac com telas de 4k são equipamentos de custo mais elevado, é dificil alguem ter e corresponde a uma parcela muito pequena de usuários, resolvi deixar mais generalizado até para o código ficar mais leve e mais fácil de dar manutenção no futuro.
