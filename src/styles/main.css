@@ -27,6 +27,12 @@ body{
     height: 280px;
 }
 
+.result-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 main section .title{
     margin-top: 32px;
     font-size: 1.5rem;
@@ -94,17 +100,21 @@ form label{
     margin-bottom: 16px;
 }
 
-.temp-max,.moisture, .fa-cloud{
+.temp-max,.moisture{
     margin-right: 48px;
 }
 
 #btnReturn{
-    margin-left: 40px;
     width: 160px;
+}
+.cloud-icon{
+    display: flex;
+    align-items: center;
 }
 
 .fa-cloud{
     font-size: 1.5em;
+    margin-right: 96px;
 }
 
 #btnReturn:hover{
