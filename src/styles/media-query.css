@@ -163,4 +163,9 @@
         width: 320px;
         height: 56px;
     }
+
+    .icon-weather{
+        width: 112px;
+        margin-right: 144px;
+    }
 }

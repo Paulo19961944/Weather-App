@@ -125,9 +125,21 @@ form label{
     align-items: center;
 }
 
-.fa-cloud{
-    font-size: 1.5em;
-    margin-right: 96px;
+.icon-weather{
+    width: 64px;
+    margin-right: 80px;
+}
+
+.fa-temperature-low{
+    color: #007EA7;
+}
+
+.fa-temperature-high{
+    color: #FB3640;
+}
+
+.fa-water, .fa-wind{
+    color: #3C3744;
 }
 
 #btnReturn:hover{
