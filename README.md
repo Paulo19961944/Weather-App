@@ -1,15 +1,6 @@
 # APP DE CLIMA
 
-Esse é um aplicativo que consome uma API da Open Weather. O propósito dessa aplicação web é justamente mostrar como trabalhar com a API. Foi instalado o Font Awsome via NPM também, deixando o código mais limpo e mais rápido.<br></br>
-
-## SEGUE INSTALAÇÃO DO FONT AWESOME ABAIXO
-Certifique se de ter o Node JS, caso não tenha, segue o link abaixo<br></br>
-[LINK DO DOWNLOAD DO NODE JS](https://nodejs.org/en/download/package-manager)<br></br>
-
-Digite o Código no Terminal depois da Instalação:<br></br>
-```npm install @fortawesome/fontawesome-free``` <br></br>
-Depois de Instalado, você poderá importar para o Node Modules via CSS<br></br>
-```<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">```<br></br>
+Esse é um aplicativo que consome uma API da Open Weather. O propósito dessa aplicação web é justamente mostrar como trabalhar com a API. Foi Utilizado o Ícone do Font Awesome via CDN.<br></br>
 
 ## ADICIONANDO FONTES DO GOOGLE
 Foram utilizadas as fontes do Google pelo fato de transmitir um estilo mais clássico e formal, o que torna agradável em um APP de Clima.<br></br>
