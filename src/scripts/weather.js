@@ -15,9 +15,7 @@ const cityNameValue = localStorage.getItem('city')
 const apiKey = 'deed26ae8dc4a03f86f95d19219b5a98'
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(cityNameValue)}&appid=${apiKey}&units=metric&lang=pt_br`
 const results = fetch(apiUrl)
-const getResults = localStorage.getItem('results', results)
-const setResults = localStorage.setItem(getResults)
-const json = setResults.json
+const json = results.json
 
 
 // Codigo se Bem Sucedido
@@ -28,8 +26,8 @@ if(json.cod === 200){
     tempNow: json.main.temp,
     tempMax: json.main.temp_max,
     tempMin: json.main.temp_min,
-    humidity:temp.main.humidity,
-    windSpeed: temp.wind.speed,
+    humidity: json.temp.main.humidity,
+    windSpeed: json.temp.wind.speed,
     description: json.weather[0].description,
   })
 }
