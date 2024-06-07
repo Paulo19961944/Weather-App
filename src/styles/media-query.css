@@ -62,6 +62,11 @@
         width: 216px;
         height: 32px;
     }
+
+    #alert{
+        padding: 8px;
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 1920px){
@@ -145,6 +150,13 @@
         width: 240px;
         height: 48px;
         font-size: 2rem;
+    }
+
+    #alert{
+        border-radius: 16px;
+        margin-top: 144px;
+        font-size: 1.7rem;
+        padding: 16px;
     }
 
     #btnReturn{

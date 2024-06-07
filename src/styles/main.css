@@ -85,6 +85,18 @@ form label{
     cursor: pointer;
 }
 
+#alert{
+    font-size: 0.65rem;
+    display: none;
+    font-family: 'Arsenal', sans-serif;
+    padding: 4px;
+    border-radius: 4px;
+    font-weight: bold;
+    background-color: #fc0000;
+    color: #fafafa;
+    margin-top: 48px;
+}
+
 .result-main-container{
     display: flex;
     justify-content: center;
